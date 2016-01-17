@@ -1,0 +1,4 @@
+C:\Users\amma9\Downloads\Kindrone\Kindrone\AR.Drone.Data\bin\Release\AR.Drone.Data.dll
+C:\Users\amma9\Downloads\Kindrone\Kindrone\AR.Drone.Data\bin\Release\AR.Drone.Data.pdb
+C:\Users\amma9\Downloads\Kindrone\Kindrone\AR.Drone.Data\obj\Release\AR.Drone.Data.dll
+C:\Users\amma9\Downloads\Kindrone\Kindrone\AR.Drone.Data\obj\Release\AR.Drone.Data.pdb

@@ -1,0 +1,4 @@
+C:\Users\amma9\Downloads\Kindrone\Kindrone\AR.Drone.Infrastructure\bin\Release\AR.Drone.Infrastructure.dll
+C:\Users\amma9\Downloads\Kindrone\Kindrone\AR.Drone.Infrastructure\bin\Release\AR.Drone.Infrastructure.pdb
+C:\Users\amma9\Downloads\Kindrone\Kindrone\AR.Drone.Infrastructure\obj\Release\AR.Drone.Infrastructure.dll
+C:\Users\amma9\Downloads\Kindrone\Kindrone\AR.Drone.Infrastructure\obj\Release\AR.Drone.Infrastructure.pdb

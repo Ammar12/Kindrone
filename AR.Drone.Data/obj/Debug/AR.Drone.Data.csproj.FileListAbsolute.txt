@@ -1,0 +1,10 @@
+C:\Users\amma9\Downloads\Firefly-master\Firefly-master\AR.Drone.Data\bin\Debug\AR.Drone.Data.dll
+C:\Users\amma9\Downloads\Firefly-master\Firefly-master\AR.Drone.Data\bin\Debug\AR.Drone.Data.pdb
+C:\Users\amma9\Downloads\Firefly-master\Firefly-master\AR.Drone.Data\obj\Debug\AR.Drone.Data.csprojResolveAssemblyReference.cache
+C:\Users\amma9\Downloads\Firefly-master\Firefly-master\AR.Drone.Data\obj\Debug\AR.Drone.Data.dll
+C:\Users\amma9\Downloads\Firefly-master\Firefly-master\AR.Drone.Data\obj\Debug\AR.Drone.Data.pdb
+C:\Users\amma9\Downloads\Kindrone\Kindrone\AR.Drone.Data\bin\Debug\AR.Drone.Data.dll
+C:\Users\amma9\Downloads\Kindrone\Kindrone\AR.Drone.Data\bin\Debug\AR.Drone.Data.pdb
+C:\Users\amma9\Downloads\Kindrone\Kindrone\AR.Drone.Data\obj\Debug\AR.Drone.Data.csprojResolveAssemblyReference.cache
+C:\Users\amma9\Downloads\Kindrone\Kindrone\AR.Drone.Data\obj\Debug\AR.Drone.Data.dll
+C:\Users\amma9\Downloads\Kindrone\Kindrone\AR.Drone.Data\obj\Debug\AR.Drone.Data.pdb
